@@ -21,9 +21,8 @@ while (n <= number ) {
 }
 
 const max_prime = Math.max(...primes)
-// console.log(max_prime)
 
 // variable max_prime contains the maximum prime factor of number
 
 
-// A very inefficient solution to large numbers like 600851475143 given in project euker
+// A very inefficient solution to large numbers like 600851475143 given in project euler
